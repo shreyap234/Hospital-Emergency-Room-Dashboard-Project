@@ -22,7 +22,7 @@ The objective of this dashboard is to help hospital staff and management:
 - Understand patient demographics
 - Analyze department workload
 
----
+
 
 ## 🛠️ Tools & Technologies Used
 - **Microsoft Excel / Power BI**
@@ -33,7 +33,7 @@ The objective of this dashboard is to help hospital staff and management:
 - **Dashboard Design**
 - **Formulas / DAX (if built in Power BI)**
 
----
+
 
 ## 📊 Dashboard Features
 - **Year Filter** (2023 / 2024)
@@ -47,14 +47,13 @@ The objective of this dashboard is to help hospital staff and management:
 - **Department Referral Analysis**
 - **Interactive and user-friendly visual design**
 
----
 
 ## 📈 Key KPIs
 - **No. of Patients:** 506
 - **Average Waiting Time:** 35.88
 - **Patient Satisfaction Score:** 5.33
 
----
+
 
 ## 🔍 Key Insights
 - The dashboard helps track emergency room patient volume over time.
@@ -63,8 +62,3 @@ The objective of this dashboard is to help hospital staff and management:
 - Age group insights highlight the most common patient segments.
 - Department referral analysis helps identify workload concentration.
 - Waiting time and satisfaction score are useful for service quality monitoring.
-
--
-
-
-- `README.md`
